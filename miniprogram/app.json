@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/login/login",
     "pages/index/index",
     "pages/selectRecord/index",
     "pages/toCompleteMission/index",
@@ -13,7 +14,7 @@
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#F6F6F6",
-    "navigationBarTitleText": "鸭鸭公主养成计划",
+    "navigationBarTitleText": "妖精的尾巴~",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json",
